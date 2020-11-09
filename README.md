@@ -8,13 +8,13 @@ This project uses Generative Adversarial Networks a newly emerging field in Deep
 ### Epoch 0 Step 0
 <img src="./images/0.png" />
 
-### Epoch 1 Step 600
+### Epoch 1 Step 200
 <img src="./images/1.png" />
 
 ### Epoch 9 Step 5000
 <img src="./images/9.png" />
 
-### Epoch 10 Step 5600
+### Epoch 10 Step 5200
 <img src="./images/10.png" />
 
 ### Epoch 19 Step 10600
