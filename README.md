@@ -12,15 +12,15 @@ This project uses Generative Adversarial Networks a newly emerging field in Deep
 <img src="./images/1.png" />
 
 ### Epoch 9 Step 5000
-<img sr="./images/9.png" />
+<img src="./images/9.png" />
 
 ### Epoch 10 Step 5600
-<img sr="./images/10.png" />
+<img src="./images/10.png" />
 
 ### Epoch 19 Step 10600
-<img sr="./images/19.png" />
+<img src="./images/19.png" />
 
 ### Epoch 19 Step 10800
-<img sr="./images/20.png" />
+<img src="./images/20.png" />
 
 Note : This Result is when the GAN is trained for only 20 Epochs 
